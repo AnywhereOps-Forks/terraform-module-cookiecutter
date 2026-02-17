@@ -5,7 +5,7 @@ This CookieCutter Template generates Terraform Modules with all the best practic
 To use this template install [CookieCutter](https://www.cookiecutter.io/) and run this command:
 
 ```bash
-cookiecutter gh:TerraformInDepth/terraform-module-cookiecutter
+cookiecutter gh:anywhereops-forks/terraform-module-cookiecutter
 ```
 
 You will then be asked a few questions, such as what provider you are using, which will be used to generate a customized project.
